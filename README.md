@@ -4,7 +4,7 @@ Repository for python-based data visualization projects
 ## UK House Price Analysis Animation
 <img src="UKHousePriceAnimation/UK_house_ripple_10fps.gif" width="420" align="right">
 
-[Notebook](UKHousePriceAnimation/UK House Price Animation.ipynb)
+[Notebook](UKHousePriceAnimation/UKHousePriceAnimation.ipynb)
 
 This animated viz. replicated [this interesting animation](https://github.com/jgleeson/housing_analysis/blob/master/House_price_cycle.md), originally done in R, as practice in pandas data manipulation, and matplotlib figure customization/animation. 
 
