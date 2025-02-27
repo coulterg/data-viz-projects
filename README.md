@@ -12,7 +12,7 @@ Repository for python-based data visualization projects
 
 This project was inspired upon learning that the tidal swing of the Thames River in London is the result of a tidal swell from the north, coming around Scotland, down the North Sea, meeting the 'next' tidal swell from the south in the Thames estuary.
 
-This project, while almost there, is unfinished. Python/matplotlib is perhaps not the correct tool for iterating these frame-wise gif animations. I am trying to produce a finished, interactive version of this visualisation through D3.js, and will update this file with a link when complete.
+This project, while almost there, is unfinished. Python/matplotlib is perhaps not the correct tool for iterating these frame-wise gif animations. I am trying to produce a finished, interactive version of this visualisation through D3.js, which you can find at [this link](https://observablehq.com/d/7be3f3ff75aec18a).
 
 <br/><br/>
 
